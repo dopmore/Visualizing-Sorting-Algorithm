@@ -1,6 +1,6 @@
 # Visualizing-Sorting-Algorithms
 
-Willkommen zum Sortier-Visualisierer! Dies ist eine Python-Anwendung, die verschiedene Sortieralgorithmen mithilfe der Pygame-Bibliothek veranschaulicht.
+Willkommen zum Algorithmus Visualisierer! Dies ist eine Python-Anwendung, die verschiedene Sortieralgorithmen mithilfe der Pygame-Bibliothek veranschaulicht.
 
 ## Inhaltsverzeichnis
 
