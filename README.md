@@ -61,6 +61,7 @@ Folgende Sortieralgorithmen werden derzeit unterstützt:
 ## Mitwirken
 
 Beiträge sind willkommen! Wenn du zu diesem Projekt beitragen möchtest, forke das Repository und erstelle einen Pull-Request mit deinen Änderungen.
+Bitte beachte das dies mein erstes größeres Python Projekt ist.
 
 ## Lizenz
 
