@@ -60,8 +60,8 @@ Folgende Sortieralgorithmen werden derzeit unterstützt:
 - Bubble Sort (Blasensortierung)
 - Selection Sort (Selektionssortierung)
 - Quick Sort (Quicksort)
-- Bucket Sort (Eimersortierung)
-- Comb Sort (Kamm-Sortierung)
+- Comb Sort (Eimersortierung)
+- Cocktail Shakers Sort (-)
 
 ## Mitwirken
 
