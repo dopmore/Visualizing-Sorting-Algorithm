@@ -49,7 +49,7 @@ Führen Sie die Haupt-Python-Datei aus, um den Visualisierer zu starten:
 
 Folgen Sie den Bildschirmanweisungen, um einen Sortieralgorithmus auszuwählen und diesen zu beobachten.
 
-<img src="BubbleSort_Beispiel.png" alt="Alt text" width="300" height="200">
+<img src="BubbleSort_Beispiel.png" alt="Alt text" width="300" height="300">
 
 Nach dem dieser fertig wird, erscheint das Auswahl-Menü erneut.
 
