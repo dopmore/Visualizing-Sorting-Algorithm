@@ -45,7 +45,7 @@ Diese Anwendung bietet eine visuelle Darstellung davon, wie verschiedene Sortier
 
 Führen Sie die Haupt-Python-Datei aus, um den Visualisierer zu starten:
 
-    python visualizer.py
+    python visual.py
 
 Folgen Sie den Bildschirmanweisungen, um einen Sortieralgorithmus auszuwählen und diesen zu beobachten.
 
