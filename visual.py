@@ -200,26 +200,21 @@ class Sorting():
 
         gap = self.length
         shrink_factor = 1.3
-        sorted = False
 
-        while not sorted:
+        while gap > 1 or not sorted:
             gap = int(gap / shrink_factor)
             if gap < 1:
                 gap = 1
                 sorted = True
 
-            swapped = False
             i = 0
-
             while i + gap < self.length:
                 if self.unsortedList[i] > self.unsortedList[i + gap]:
                     self.unsortedList[i], self.unsortedList[i + gap] = self.unsortedList[i + gap], self.unsortedList[i]
-                    swapped = True
+                    sorted = False
                     self.displaySorting()
                 i += 1
 
-            if not swapped:
-                sorted = True
         pygame.time.wait(1500)
         self.selectScreen()
             
