@@ -24,16 +24,16 @@ class Sorting():
     
     def selectScreen(self):
         self.createUnsortedList()
-        font = pygame.font.Font("PixelEmulator-xq08.ttf", 80)
+        font = pygame.font.Font(None, 180)
         screen.fill("black")
         
         #Select
         text = font.render("Select:", True, "green")
         screen.blit(text, (30, 20))
         
-        y = 150
+        y = 170
         number = 1
-        font = pygame.font.Font("PixelEmulator-xq08.ttf", 50)
+        font = pygame.font.Font(None, 100)
         
         for alg in self.algorithms:
             text = font.render(str(number) + ". " + alg, True, "green")
@@ -68,7 +68,7 @@ class Sorting():
         
     def displaySorting(self):
 
-        font = pygame.font.Font("PixelEmulator-xq08.ttf", 36)
+        font = pygame.font.Font(None, 70)
         
         #Fenster Schließen
         for event in pygame.event.get():
