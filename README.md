@@ -36,7 +36,7 @@ Diese Anwendung bietet eine visuelle Darstellung davon, wie verschiedene Sortier
 
 3. Installieren Sie die erforderlichen Abhängigkeiten:
 
-        python -m pip install -U pygame
+        pip install pygame
 
 
 ## Verwendung
