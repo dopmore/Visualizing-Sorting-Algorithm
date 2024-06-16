@@ -2,6 +2,8 @@
 
 Willkommen zum Algorithmus Visualisierer! Dies ist eine Python-Anwendung, die verschiedene Sortieralgorithmen mithilfe der Pygame-Bibliothek veranschaulicht.
 
+![Project Screenshot](Select_Screen.png)
+
 ## Inhaltsverzeichnis
 
 - [Einleitung](#einleitung)
