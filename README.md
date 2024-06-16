@@ -2,7 +2,7 @@
 
 Willkommen zum Algorithmus Visualisierer! Dies ist eine Python-Anwendung, die verschiedene Sortieralgorithmen mithilfe der Pygame-Bibliothek veranschaulicht.
 
-<img src="Select_Screen" alt="Select Screen" width="300" height="300">
+<img src="Select_Screen.png" alt="Select Screen" width="300" height="300">
 
 ## Inhaltsverzeichnis
 
